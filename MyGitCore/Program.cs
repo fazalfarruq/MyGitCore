@@ -6,7 +6,7 @@ namespace MyGitCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yahoo!");
+            Console.WriteLine("Yahoossssssssss!");
         }
     }
 }
